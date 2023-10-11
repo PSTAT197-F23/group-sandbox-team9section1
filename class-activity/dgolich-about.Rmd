@@ -1,1 +1,1 @@
-#My name is Dannah and my favorite color is blue.
+#My name is Dannah and my favorite color is not blue.
