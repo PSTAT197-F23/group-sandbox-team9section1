@@ -3,4 +3,7 @@
 
 template repo for class activity on git and github in pstat197a
 
+Names: 
+Rohan dannah Jason Azfal Ryan
+
 updated october 2023
